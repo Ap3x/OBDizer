@@ -15,12 +15,20 @@ Freematics OBD2 Port device
 LS23060 v1.0 GPS 1590-A U
 ![Alt text](Photos/GPS-Front.jpg?raw=true "GPS")
 
+Sainsmart TFT LCD Mega Sheild
+![Alt text](Photos/TopOfBoardPinout.jpg?raw=true "Top of Board")
+
+##Schematic 
+This schematic doesn't show the TFT LCD touch screen so please refer to the additional photos below
+![Alt text](Photos/Schematic.jpg?raw=true "Schematic")
+
+
 ##Additional Photos
 ![Alt text](Photos/Board.jpg?raw=true "Board")
 ![Alt text](Photos/BottomOfBoardPinOut.jpg?raw=true "Bottom of Board")
 ![Alt text](Photos/GpsPinout.jpg?raw=true "GPS")
 ![Alt text](Photos/OBD-ConnectorToBoard.jpg?raw=true "OBD Connector To Board")
-![Alt text](Photos/TopOfBoardPinout.jpg?raw=true "Top of Board")
+
 
 
 
