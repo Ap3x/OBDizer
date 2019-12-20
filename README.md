@@ -10,8 +10,17 @@ I knew there was an OBD2 port that the maintenance people at car shops would use
 
 ## Parts Used
 Freematics OBD2 Port device 
-  Link
-  
-![Alt text](Photos/Board.jpg?raw=true "Title")
+![Alt text](Photos/ODB-Connector.jpg?raw=true "OBD Connector")
+
+LS23060 v1.0 GPS 1590-A U
+![Alt text](Photos/GPS-Front.jpg?raw=true "GPS")
+
+##Additional Photos
+![Alt text](Photos/Board.jpg?raw=true "Board")
+![Alt text](Photos/BottomOfBoardPinOut.jpg?raw=true "Bottom of Board")
+![Alt text](Photos/GpsPinout.jpg?raw=true "GPS")
+![Alt text](Photos/OBD-ConnectorToBoard.jpg?raw=true "OBD Connector To Board")
+![Alt text](Photos/TopOfBoardPinout.jpg?raw=true "Top of Board")
+
 
 
