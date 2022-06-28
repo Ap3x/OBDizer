@@ -1,3 +1,5 @@
+# THIS IS NO LONGER MAINTAINED
+
 # OBD2 Arduino Car Reader
 
 ## Summary
